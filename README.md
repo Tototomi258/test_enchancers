@@ -96,7 +96,7 @@
 
 ## Usage
 
-Call the API using a servizce like `Postman` by calling the following URL
+Call the API using a service like `Postman` by calling the following URL
 
 ```
 http://localhost:3000/weatherReport?cities={ENTER YOUR CITIES SEPARATED BY COMMA}
